@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000
 
 db.
 then(() => {
-  console.log("Database Terkoneksi");
+  console.log("Database Terkoneksiii");
 })
 .catch((err) => {
   console.log(err);
